@@ -1,8 +1,11 @@
 # QR-CODE-GENERATOR-1
 
 
-This is python based project named qr code generator version 1
+This is python based project named qr code generator version 1.
 
+# IDE Used
+ PyCharm
+ 
 # IT USES
 1. qrcode module
 2. random module
@@ -14,6 +17,6 @@ This is python based project named qr code generator version 1
  <img width="1433" alt="Screenshot 2022-08-31 at 12 05 10 PM" src="https://user-images.githubusercontent.com/99115141/187610532-6d40458b-74a9-4755-baec-eb8df1928899.png">
 
 
+# Features
 It consists a list of different colors which with help of random module can be used to create QR codes of different colors.
-
 It is more interactive and user friendly.
